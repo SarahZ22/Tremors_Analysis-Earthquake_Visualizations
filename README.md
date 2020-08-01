@@ -24,14 +24,22 @@ This will include retreiving data using an API, cleaning and filtering the data 
 
 # What is an Earthquake and how is it caused?
 
-An earthquake is the result of a sudden release of stored energy in the Earth's crust that creates seismic waves. The term earthquake is used to describe any seismic event (natural or human-caused) that creates seismic waves.(R2) 
+An earthquake is the result of a sudden release of stored energy in the Earth's crust that creates seismic waves. The term earthquake is used to describe any seismic event (natural or human-caused) that creates seismic waves. (R2) 
 
 In this project we will be referencing Earthquake Magnitude - this is in reference to the Richter magnitude scale\
 This scale reflects the strength of an earthquake and the effect the quake may have\
-The scale is logarithmic meaning each integer increase represents a 10-fold increase in quake magnitude (and likely the effect).
+The scale is logarithmic meaning each integer increase represents a 10-fold increase in quake magnitude (and likely the effect).\
+Effects: \
+2.5 or less - usually not felt but are recorded\
+2.5-5.5 - felt, minor damage\
+5.5-6 - slight damage to buildings\
+6-6.9 - potential major damage in populated areas\
+7-7.9 - major earthquake with major damage\
+8+ - great earthquake that can totally destroy communities near the epicentre\
+(R3)
 
 ![RichterScale](https://github.com/SarahZ22/Project_1_Tremors_Analysis/blob/master/Images/Richter_Scale.jpg)
-(R3)
+(R4)
 
 The Science of Earthquakes article from the USGS provides a more thorough overview on the science behind Earthquakes
 
@@ -45,4 +53,6 @@ R1: image source: https://www.shutterstock.com/image-vector/soil-cracks-effect-e
 
 R2: reference: https://www.sciencedaily.com/terms/earthquake.htm
 
-R3: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw
+R3: reference: https://www.cbc.ca/news/world/richter-magnitude-scale-explained-1.1130841#:~:text=World-,Richter%20'magnitude'%20scale%20explained,the%20magnitude%20of%20the%20earthquake.
+
+R4: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw
