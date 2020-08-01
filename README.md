@@ -5,7 +5,7 @@ DU Bootcamp Project 1
 
 Analysts: Sarah Zachrich, Meg Estey, Thampi Mathews, Robin Bun, Jennie Brozena
 
-Data Type: Geologic Earthquake Data
+Data Type: Geologic Earthquake Data\
 Data Source: USGS Earthquake Hazards Program Site
 
 # Project Scope
