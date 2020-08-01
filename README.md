@@ -1,7 +1,7 @@
 # Project 1 - Tremors Analysis
 DU Bootcamp Project 1
 
-![stock-photo-earthquake2](Images/stock-photo-earthquake2.png)
+![Earthquake](https://github.com/SarahZ22/Images/stock-photo-earthquake2.png)
 
 Analysts: Sarah Zachrich, Meg Estey, Thampi Mathews, Robin Bun, Jennie Brozena
 
