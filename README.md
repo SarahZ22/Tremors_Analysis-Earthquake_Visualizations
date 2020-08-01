@@ -27,8 +27,8 @@ This will include retreiving data using an API, cleaning and filtering the data 
 An earthquake is the result of a sudden release of stored energy in the Earth's crust that creates seismic waves. The term earthquake is used to describe any seismic event (natural or human-caused) that creates seismic waves. (R2) 
 
 In this project we will be referencing Earthquake Magnitude - this is in reference to the Richter magnitude scale\
-This scale reflects the strength of an earthquake and the effect the quake may have\
-The scale is logarithmic meaning each integer increase represents a 10-fold increase in quake magnitude (and likely the effect).\
+A logarithmic scale that reflects the strength of an earthquake and the effect the quake may have\
+Each integer increase represents a 10-fold increase in quake magnitude\
 Effects: \
 2.5 or less - usually not felt but are recorded\
 2.5-5.5 - felt, minor damage\
