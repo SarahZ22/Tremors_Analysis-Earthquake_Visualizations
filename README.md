@@ -7,7 +7,7 @@ DU Bootcamp Project 1
 Analysts: Sarah Zachrich, Meg Estey, Thampi Mathews, Robin Bun, Jennie Brozena
 
 Data Type: Geologic Earthquake Data\
-Data Source: USGS Earthquake Hazards Program Site - https://earthquake.usgs.gov \
+Data Source: USGS Earthquake Hazards Program Site - https://earthquake.usgs.gov
 
 
 # Project Scope
@@ -37,8 +37,8 @@ The Science of Earthquakes article from the USGS provides a more thorough overvi
 
 
 # References & other links
-USGS The Science of Earthquakes article: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes?qt-science_center_objects=0#qt-science_center_objects \ 
-API Documentation: https://earthquake.usgs.gov/fdsnws/event/1/#parameters \
-R1: image source: https://www.shutterstock.com/image-vector/soil-cracks-effect-earthquakes-seismograph-chart-525320365 \
-R2: reference: https://www.sciencedaily.com/terms/earthquake.htm \
-R3: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw \
+USGS The Science of Earthquakes article: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes?qt-science_center_objects=0#qt-science_center_objects\ 
+API Documentation: https://earthquake.usgs.gov/fdsnws/event/1/#parameters\
+R1: image source: https://www.shutterstock.com/image-vector/soil-cracks-effect-earthquakes-seismograph-chart-525320365\
+R2: reference: https://www.sciencedaily.com/terms/earthquake.htm\
+R3: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw\
