@@ -13,7 +13,7 @@ Data Source: USGS Earthquake Hazards Program Site - https://earthquake.usgs.gov
 # Project Scope
 We will be looking at earthquake data on a global scale for the previous year (2019) to better understand where earthquakes occur most often on Earth along with some other variables we want to visualize. We will answer any related questions as the data admits.
 
-This will include retreiving data using an API, cleaning and filtering the data as needed, analyzing the data and creating outputs to answer our target questions, discussing and presenting our finding along with resolving any issues and difficulties that come up during this process.
+This will include retreiving data using an API, cleaning and filtering the data as needed, analyzing the data and creating outputs to answer our target questions, discussing and presenting our findings along with resolving any issues and difficulties that come up during this process.
 
 # Target Questions
 - Is there a certain time of years earthquakes occur more often or more strongly? 
@@ -33,7 +33,7 @@ The scale is logarithmic meaning each integer increase represents a 10-fold incr
 ![RichterScale](https://github.com/SarahZ22/Project_1_Tremors_Analysis/blob/master/Images/Richter_Scale.jpg)
 (R3)
 
-The Science of Earthquakes article from the USGS provides a more thorough overview on the science behind Earthquakes\
+The Science of Earthquakes article from the USGS provides a more thorough overview on the science behind Earthquakes
 
 
 # References & other links
