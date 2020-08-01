@@ -8,7 +8,7 @@ Analysts: Sarah Zachrich, Meg Estey, Thampi Mathews, Robin Bun, Jennie Brozena
 
 Data Type: Geologic Earthquake Data\
 Data Source: USGS Earthquake Hazards Program Site - https://earthquake.usgs.gov \
-Documentation: https://earthquake.usgs.gov/fdsnws/event/1/#parameters
+
 
 # Project Scope
 We will be looking at earthquake data on a global scale for the previous year (2019) to better understand where earthquakes occur most often on Earth along with some other variables we want to visualize. We will answer any related questions as the data admits.
@@ -29,14 +29,16 @@ An earthquake is the result of a sudden release of stored energy in the Earth's 
 In this project we will be referencing Earthquake Magnitude - this is in reference to the Richter magnitude scale\
 This scale reflects the strength of an earthquake and the effect the quake may have\
 The scale is logarithmic meaning each integer increase represents a 10-fold increase in quake magnitude (and likely the effect).
+
 ![RichterScale](https://github.com/SarahZ22/Project_1_Tremors_Analysis/blob/master/Images/Richter_Scale.jpg)
 (R3)
 
-The Science of Earthquakes article from the USGS provides a more thorough overview on the science behind Earthquakes
-(found here: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes?qt-science_center_objects=0#qt-science_center_objects)
+The Science of Earthquakes article from the USGS provides a more thorough overview on the science behind Earthquakes\
 
 
-# References
-R1: image source: https://www.shutterstock.com/image-vector/soil-cracks-effect-earthquakes-seismograph-chart-525320365
-R2: reference: https://www.sciencedaily.com/terms/earthquake.htm
-R3: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw
+# References & other links
+USGS The Science of Earthquakes article: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/science-earthquakes?qt-science_center_objects=0#qt-science_center_objects \ 
+API Documentation: https://earthquake.usgs.gov/fdsnws/event/1/#parameters \
+R1: image source: https://www.shutterstock.com/image-vector/soil-cracks-effect-earthquakes-seismograph-chart-525320365 \
+R2: reference: https://www.sciencedaily.com/terms/earthquake.htm \
+R3: image source: https://www.youtube.com/watch?v=_q_2VdqiKbw \
