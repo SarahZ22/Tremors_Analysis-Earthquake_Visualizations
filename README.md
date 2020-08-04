@@ -9,6 +9,12 @@ Analysts: Sarah Zachrich, Meg Estey, Thampi Mathews, Robin Bun, Jennie Brozena
 Data Type: Geologic Earthquake Data\
 Data Source: USGS Earthquake Hazards Program Site - https://earthquake.usgs.gov
 
+# Project Components
+Image Files - saved from our shared Jupyter Notebook\
+Data Files - csv files of both our raw and filtered data pulled from the USGS site\
+EarthquakesNB.ipynb - shared Jupyter Notebook containing all code to pull data, perform all analysis and create all visuals needed to answer our target questions/
+- Note 1: A writeup summarizing our of our findings is included at the bottom of the notebook
+- Note 2: A google gkey is needed to run this notebook
 
 # Project Scope
 We will be looking at earthquake data on a global scale for the previous year (2019) to better understand where earthquakes occur most often on Earth along with some other variables we want to visualize. We will answer any related questions as the data admits.
